@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Text;
 
-
 namespace HelloWorldLibrary
 {
     public class Messages
