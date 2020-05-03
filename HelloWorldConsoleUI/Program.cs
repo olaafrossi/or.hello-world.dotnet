@@ -1,6 +1,6 @@
 ﻿using System;
-using HelloWorldLibrary;
 using System.Diagnostics;
+using HelloWorldLibrary;
 
 namespace HelloWorldConsoleUI
 {
@@ -11,6 +11,7 @@ namespace HelloWorldConsoleUI
             Stopwatch.StartNew();
             NewUp();
             Console.WriteLine(Stopwatch.GetTimestamp());
+
             // breakup the methods
 
             Stopwatch.StartNew();
