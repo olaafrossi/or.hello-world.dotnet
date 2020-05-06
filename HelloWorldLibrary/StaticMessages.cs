@@ -10,7 +10,7 @@ namespace HelloWorldLibrary
         {
             for (int i = 0; i < 3; i++)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i.ToString());
             }
 
             Console.WriteLine($"{msg} {DateTime.Now} Hello from the library!");
